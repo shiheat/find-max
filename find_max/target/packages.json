@@ -1,0 +1,37 @@
+{
+  "source_dir": "C:\\Users\\31331\\find_max",
+  "name": "heat/hello",
+  "packages": [
+    {
+      "is-main": true,
+      "is-third-party": false,
+      "root-path": "C:\\Users\\31331\\find_max\\src\\main",
+      "root": "heat/hello",
+      "rel": "main",
+      "files": {
+        "C:\\Users\\31331\\find_max\\src\\main\\main.mbt": {
+          "backend": [
+            "Wasm",
+            "WasmGC",
+            "Js",
+            "Native"
+          ],
+          "optlevel": [
+            "Debug",
+            "Release"
+          ]
+        }
+      },
+      "wbtest-files": {},
+      "test-files": {},
+      "deps": [],
+      "wbtest-deps": [],
+      "test-deps": [],
+      "artifact": "C:\\Users\\31331\\find_max\\target\\wasm-gc\\release\\check\\main\\main.mi"
+    }
+  ],
+  "deps": [],
+  "backend": "wasm-gc",
+  "opt_level": "release",
+  "source": "src"
+}

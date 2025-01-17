@@ -1,0 +1,21 @@
+
+         --  -- 
+       /  //  / __--------_
+      /  //  /_/            \
+   ---      -                \ __
+  / X        /        ____   /   )
+  *_________/__/_____/______/ `--
+
+Oops, the compiler has encountered an unexpected situation.
+This is a bug in the compiler.
+
+A bug report containing the error description and relevant code would be
+greatly appreciated. You can submit the bug report here:
+
+  https://github.com/moonbitlang/moonbit-docs/issues/new?labels=bug,ICE
+
+Error: Moonc.Basic_utf8.MalFormed
+
+Compiler args: moonc build-package -error-format json "C:\\Users\\31331\\hello\\src\\lib\\hello.mbt" -o "C:\\Users\\31331\\hello\\target\\wasm-gc\\release\\build\\lib\\lib.core" -pkg username/hello/lib -std-path "C:\\Users\\31331\\.moon\\lib\\core\\target\\wasm-gc\\release\\bundle" -pkg-sources "username/hello/lib:C:\\Users\\31331\\hello\\src\\lib" -target wasm-gc
+
+moonc version: v0.1.20250116+a5b52078f
